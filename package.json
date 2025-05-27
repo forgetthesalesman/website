@@ -1,0 +1,29 @@
+{
+  "name": "forgetthesalesman",
+  "version": "1.0.0",
+  "description": "Website for the forgetthesalesman plumbing business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maypher/forgetthesalesman.git"
+  },
+  "keywords": [
+    "website",
+    "static",
+    "plumbing",
+    "cms",
+    "11ty"
+  ],
+  "author": "Maypher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maypher/forgetthesalesman/issues"
+  },
+  "homepage": "https://github.com/Maypher/forgetthesalesman#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.0"
+  }
+}
