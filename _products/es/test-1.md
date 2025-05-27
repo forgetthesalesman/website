@@ -1,4 +1,0 @@
----
-name: Prueba
-warrantyInfo: klfjdsa
----
